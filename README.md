@@ -1,4 +1,4 @@
-# metode_numerik
+# Metode Numerik
 Metode Numerik Kelompok ...
 
 ## Anggota:
